@@ -45,7 +45,7 @@ AgentRouter flips this model by offering:
 
 Sign up using the link below to get started with your **$200 free credits**:
 
-👉 https://agentrouter.org/register?aff=8Qbb
+👉 [Create your free account](https://agentrouter.org/register?aff=8Qbb)
 
 ## 🧠 Final Thoughts
 
