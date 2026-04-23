@@ -41,6 +41,12 @@ AgentRouter flips this model by offering:
 
 > A unified, accessible, and developer-friendly AI gateway.
 
+## 🎁 Get Started (Referral Bonus)
+
+Sign up using the link below to get started with your **$200 free credits**:
+
+👉 https://agentrouter.org/register?aff=8Qbb
+
 ## 🧠 Final Thoughts
 
 For developers exploring AI without committing financially upfront, AgentRouter represents a compelling alternative — especially for experimentation, prototyping, and learning.
