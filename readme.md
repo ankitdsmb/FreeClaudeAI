@@ -44,7 +44,3 @@ AgentRouter flips this model by offering:
 ## 🧠 Final Thoughts
 
 For developers exploring AI without committing financially upfront, AgentRouter represents a compelling alternative — especially for experimentation, prototyping, and learning.
-
----
-
-*Source: Original GitHub Gist* :contentReference[oaicite:0]{index=0}
